@@ -106,7 +106,7 @@ A production-grade self-hosted infrastructure environment used to prototype, tes
 - API servers (FastAPI, Express.js)
 - Database clusters (PostgreSQL)
 - Message queues and job runners
-- AI agent execution environments (PaperclipAI)
+- AI agent execution environments (Dev Company / PaperclipAI)
 
 ### System Services
 - DNS and DHCP
@@ -145,7 +145,7 @@ This infrastructure serves as the foundation for all other projects:
 - **Invoice Flow** — Database hosting, API deployment, testing environments
 - **Nomus Connector** — ERP integration testing, PostgreSQL adapters
 - **Inbox Sentinel** — Full SaaS stack deployment and testing
-- **PaperclipAI** — Agent execution environments, database hosting
+- **Dev Company** — Agent execution environments, database hosting
 
 Every SaaS system in the portfolio was prototyped, tested, and initially deployed on this infrastructure before moving to cloud hosting.
 
