@@ -105,6 +105,7 @@ A production-grade self-hosted infrastructure environment used to prototype, tes
 ### Production Workloads
 - API servers (FastAPI, Express.js)
 - Database clusters (PostgreSQL)
+- n8n workflow automation (data pipelines, integrations, notifications)
 - Message queues and job runners
 - AI agent execution environments (Dev Company / PaperclipAI)
 
@@ -132,7 +133,7 @@ A production-grade self-hosted infrastructure environment used to prototype, tes
 | **Networking** | VLANs, DNS, Nginx, Traefik, WireGuard |
 | **Storage** | ZFS, NFS, Samba |
 | **Monitoring** | Prometheus, Grafana, Uptime Kuma |
-| **Automation** | Ansible, shell scripts, cron |
+| **Automation** | n8n, Ansible, shell scripts, cron |
 | **Databases** | PostgreSQL, Redis, SQLite |
 | **Backup** | Proxmox Backup Server, rsync |
 
